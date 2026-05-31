@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...learning how to build solutions to simplify tasks
 - 🌱 I’m currently learning ...Ruby, HTML, Photography and more
 - 💞️ I’m looking to collaborate on ...Real Estate software and creating branding for my photography business
-- 📫 How to reach me ... dot.cards/michael-klinger
+- 📫 How to reach me ... nevadadesertrealty.com
 
 
 <!---
